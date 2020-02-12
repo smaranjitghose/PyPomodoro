@@ -35,7 +35,7 @@ I had integrated this component intially however I found out that this needs the
 
 2. Improving the GUI using ```tkinter``` or anything you wish  🎨
 
-3.Adding a feature of taking in input the total number of hours to be dedidcated and then automatically providing slots as per the Pomodoro technique: 5 min breaks for every 4 slots followed by 15 min break after a cumilative slot time of 2 hrs 🤖
+3.Adding a feature of taking in input the total number of hours to be dedidcated and then automatically providing slots as per the Pomodoro technique: 5 min breaks for every 4 slots followed by 15 min break after a cumalative slot time of 2 hrs 🤖
 
 4.Storing the log details of the various pomodoro sessions in a ```log.txt``` file 🧾
 

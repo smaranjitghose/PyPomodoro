@@ -1,4 +1,4 @@
-# pomo_py 
+# PyPomodoro 
 This is a simple python script crafted with ❤ for anyone who wants to level up their productivity or learning by 10x
 
 ## Pomodoro Technique: A little briefing about the golden tradition 🎯
